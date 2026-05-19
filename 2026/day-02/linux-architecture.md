@@ -288,7 +288,7 @@ user      330     Z    zombie_process
 ```
 
 STAT values:
-R → Running  
-S → Sleeping  
-T → Stopped  
-Z → Zombie
+- R → Running  
+- S → Sleeping  
+- T → Stopped  
+- Z → Zombie
