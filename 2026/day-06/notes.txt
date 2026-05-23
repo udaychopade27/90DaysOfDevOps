@@ -1,0 +1,3 @@
+I am practicing linux on terminsl for file operations
+we can also append text in file
+Tee commmand is used to write as well as diplay text
